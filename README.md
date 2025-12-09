@@ -63,7 +63,7 @@ OBS や GeForce Experience といった録画ソフトでも正しくキャプ�
 
 ```bash
 pip install PySide6 keyboard
-
+```
 
 
 ## 🔧 動作の原理
@@ -92,6 +92,7 @@ pip install PySide6 keyboard
 ### 1. ライブラリをインストール
 ```bash
 pip install PySide6 keyboard
+```
 
 2. スクリプトを実行
 python echokeys.py
@@ -112,11 +113,4 @@ X：終了
 
 約 10 秒で自動消去
 
-5. 録画ソフトでそのまま録画可能
 
-OBS
-
-GeForce Experience
-
-Bandicam
-（透明ウィンドウでも問題なし）
