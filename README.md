@@ -15,6 +15,8 @@ A lightweight transparent overlay that visualizes real-time keyboard input, show
 透明ウィンドウ上に最新の入力、コンボキー、履歴を表示し、  
 OBS や GeForce Experience といった録画ソフトでも正しくキャプチャできます。
 
+<img width="702" height="475" alt="Image" src="https://github.com/user-attachments/assets/29759d32-0ba1-4640-a8c5-8660748bb577" />
+
 ---
 
 ## ✨ 特徴
