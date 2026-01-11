@@ -35,6 +35,8 @@ OBS や GeForce Experience といった録画ソフトでも正しくキャプ�
 - 最新行は強調表示（2倍の高さ）  
 - 古い履歴は指定時間経過後に自動削除（デフォルト 10 秒）
 
+<img width="887" height="678" alt="Image" src="https://github.com/user-attachments/assets/08bc0cdb-8a9b-425a-ad8e-6d45152899b9" />
+
 ### 🔹 直感的な UI 操作
 - ⤧：ウィンドウ移動  
 - ↕↔：縦横リサイズ  
